@@ -1,2 +1,0 @@
-# Library
-Refrence and Notes
